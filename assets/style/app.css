@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to right, #add8e6, #87cefa, #b0e0e6);
+}
+.profile {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+} 
+.profileImage {
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+}
+.biodata {
+    background-color: whitesmoke;
+    padding-top: 200px;
+}
+.row {
+    padding: 0px 20px;
+}
+.keahlian{
+    background-color: #a2d9ff;
+}
+
+.keahlian h1 {
+    color: black;
+    padding-top: 100px;
+}
+.footer {
+    background-color: #a2d9ff;
+    padding-top: 100px;
+}
